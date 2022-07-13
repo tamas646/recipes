@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/getferdi/recipes/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/recipes/actions/workflows/builds.yml/badge.svg?branch=master&event=push"></a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-31-default.svg?logo=github' alt='Contributors'/></a>
+<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-32-default.svg?logo=github' alt='Contributors'/></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://hiro-group.ronc.one"><img src="https://avatars.githubusercontent.com/u/4378663?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alessandro Roncone</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=alecive" title="Code">💻</a></td>
     <td align="center"><a href="http://www.ielf.org"><img src="https://avatars.githubusercontent.com/u/1573484?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Celedhrim</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=Celedhrim" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/feelx88"><img src="https://avatars.githubusercontent.com/u/307526?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Felix Müller</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=feelx88" title="Code">💻</a></td>
+    <td align="center"><a href="https://dzamanillo.github.io/"><img src="https://avatars.githubusercontent.com/u/84102539?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Zamanillo</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=dzamanillo" title="Code">💻</a></td>
   </tr>
 </table>
 
