@@ -1,7 +1,7 @@
 {
 	"id": "forecast",
 	"name": "Forecast",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "https://github.com/dzamanillo/forecast-recipe",
 	"config": {
