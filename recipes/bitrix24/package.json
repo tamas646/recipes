@@ -1,0 +1,9 @@
+{
+  "id": "bitrix24",
+  "name": "bitrix24",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "hasCustomUrl": true
+  }
+}
