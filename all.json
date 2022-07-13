@@ -142,6 +142,15 @@
   },
   {
     "featured": false,
+    "id": "bitrix24",
+    "name": "bitrix24",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/bitrix24/icon.svg"
+    }
+  },
+  {
+    "featured": false,
     "id": "bitwarden",
     "name": "Bitwarden",
     "version": "1.0.2",
@@ -493,6 +502,15 @@
     "version": "1.1.1",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/flowdock/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "forecast",
+    "name": "Forecast",
+    "version": "1.0.1",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/forecast/icon.svg"
     }
   },
   {
@@ -1704,7 +1722,7 @@
     "featured": false,
     "id": "thelounge",
     "name": "The Lounge",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/thelounge/icon.svg"
     }
