@@ -1,0 +1,12 @@
+{
+	"id": "forecast",
+	"name": "Forecast",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "https://github.com/dzamanillo/forecast-recipe",
+	"config": {
+		"serviceURL": "https://app.forecast.it/timesheets",
+		"hasNotificationSound": true,
+		"hasIndirectMessages": true
+	}
+}
