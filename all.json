@@ -1174,6 +1174,15 @@
   },
   {
     "featured": false,
+    "id": "nextcloud-deck",
+    "name": "Nextcloud Deck",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/nextcloud-deck/icon.svg"
+    }
+  },
+  {
+    "featured": false,
     "id": "nextcloud-news",
     "name": "Nextcloud News",
     "version": "1.0.1",
