@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/getferdi/recipes/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/recipes/actions/workflows/builds.yml/badge.svg?branch=master&event=push"></a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-35-default.svg?logo=github' alt='Contributors'/></a>
+<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-36-default.svg?logo=github' alt='Contributors'/></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
@@ -77,6 +77,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/xavier-calland"><img src="https://avatars.githubusercontent.com/u/1773123?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xavier Calland</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=xavier-calland" title="Code">💻</a></td>
     <td align="center"><a href="https://hello.guillaume.engineer/"><img src="https://avatars.githubusercontent.com/u/18405490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guillaume Assier</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=Sykursen" title="Code">💻</a></td>
     <td align="center"><a href="https://www.updownleftdie.com"><img src="https://avatars.githubusercontent.com/u/3268576?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared Kotoff</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=jaredkotoff" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://herecura.eu"><img src="https://avatars.githubusercontent.com/u/293691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ike Devolder</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=BlackIkeEagle" title="Code">💻</a></td>
   </tr>
 </table>
 

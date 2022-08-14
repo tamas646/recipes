@@ -321,6 +321,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "BlackIkeEagle",
+      "name": "Ike Devolder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293691?v=4",
+      "profile": "https://herecura.eu",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
