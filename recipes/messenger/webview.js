@@ -7,7 +7,7 @@ module.exports = Ferdi => {
     /*
      * new notification counter by tamas646
      */
-    let notif_indicators = document.querySelectorAll('span.pq6dq46d.is6700om.cyypbtt7.fwizqjfa.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz');
+    let notif_indicators = document.querySelectorAll('span.fxk3tzhb.odagglqh.s9ok87oh.s9ljgwtm.lxqftegz.bf1zulr9.k250bvdn.cv5aopd8.frfouenu.bonavkto.djs4p424.r7bn319e.qmqpeqxj.e7u6y3za.qwcclf47.nmlomj2f');
     if(count_muted) {
       count = notif_indicators.length;
     }
