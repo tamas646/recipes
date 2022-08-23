@@ -2,32 +2,19 @@ module.exports = Ferdi => {
   const getMessages = () => {
     let count = 0;
 
-    const isNotification = /^\((\d+)\)/.test(document.title);
+    const count_muted = false;
 
     /*
-     * Notification case for group chats, workaround by tamas646
-     * see https://github.com/getferdi/ferdi/issues/1113#issuecomment-783409154
+     * new notification counter by tamas646
      */
-    if (isNotification) {
-      count = Ferdi.safeParseInt(/^\((\d+)\)/.exec(document.title)[1]);
-    } else {
-      /*
-       * Notification case for direct messages, workaround by manavortex
-       * see https://github.com/getferdi/ferdi/issues/1113#issuecomment-846611765
-       */
-      count = document.querySelectorAll(
-        '._5fx8:not(._569x),._1ht3:not(._569x)',
-      ).length;
-      if (count === 0) {
-        count = document.querySelectorAll(
-          '.pq6dq46d.is6700om.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.cyypbtt7.fwizqjfa',
-        ).length;
-      }
-      if (count === 0) {
-        // might be obsolete, not sure - never ran into this case
-        count = document.querySelectorAll('[aria-label="Mark as read"]').length;
-      }
+    let notif_indicators = document.querySelectorAll('span.fxk3tzhb.odagglqh.s9ok87oh.s9ljgwtm.lxqftegz.bf1zulr9.k250bvdn.cv5aopd8.frfouenu.bonavkto.djs4p424.r7bn319e.qmqpeqxj.e7u6y3za.qwcclf47.nmlomj2f');
+    if(count_muted) {
+      count = notif_indicators.length;
     }
+    else {
+      notif_indicators.forEach(span => count += span.parentNode.parentNode.childNodes.length == 1);
+    }
+
     /*
      * add count of message requests on top of notification counter
      */
