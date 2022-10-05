@@ -1,0 +1,12 @@
+{
+  "id": "nextcloud-deck",
+  "name": "Nextcloud Deck",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasCustomUrl": true,
+    "serviceURL": "https://{nextcloud}/apps/deck/"
+  }
+}
